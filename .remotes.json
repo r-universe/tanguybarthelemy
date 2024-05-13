@@ -12,10 +12,22 @@
     "from": "rjd3workspace"
   },
   {
+    "package": "rjd3sts",
+    "url": "https://github.com/rjdverse/rjd3sts",
+    "via": ["rjd3highfreq"],
+    "from": "rjd3highfreq"
+  },
+  {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3filters"],
     "from": "rjd3filters"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3highfreq"],
+    "from": "rjd3highfreq"
   },
   {
     "package": "rjd3toolkit",
