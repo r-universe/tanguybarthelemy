@@ -1,5 +1,11 @@
 [
   {
+    "package": "rjd3filters",
+    "url": "https://github.com/rjdverse/rjd3filters",
+    "via": ["rjd3x11plus"],
+    "from": "rjd3x11plus"
+  },
+  {
     "package": "rjd3providers",
     "url": "https://github.com/rjdverse/rjd3providers",
     "via": ["rjd3workspace"],
@@ -28,6 +34,12 @@
     "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3workspace"],
     "from": "rjd3workspace"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3x11plus"],
+    "from": "rjd3x11plus"
   },
   {
     "package": "rjd3toolkit",
