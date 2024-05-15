@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/tanguybarthelemy/tanguybarthelemy.r-universe.dev
 	branch = HEAD
+[submodule "JDCruncheR"]
+	path = JDCruncheR
+	url = https://github.com/InseeFr/JDCruncheR
+[submodule "rjdworkspace"]
+	path = rjdworkspace
+	url = https://github.com/InseeFrLab/rjdworkspace
