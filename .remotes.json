@@ -26,6 +26,12 @@
   {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3sts"],
+    "from": "rjd3sts"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3tramoseats"],
     "from": "rjd3tramoseats"
   },
