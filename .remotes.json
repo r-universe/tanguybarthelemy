@@ -32,6 +32,12 @@
   {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3bench"],
+    "from": "rjd3bench"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3filters"],
     "from": "rjd3filters"
   },
