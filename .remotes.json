@@ -50,12 +50,6 @@
   {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
-    "via": ["rjd3nowcasting"],
-    "from": "rjd3nowcasting"
-  },
-  {
-    "package": "rjd3toolkit",
-    "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3providers"],
     "from": "rjd3providers"
   },
