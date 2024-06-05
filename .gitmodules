@@ -5,6 +5,9 @@
 [submodule "JDCruncheR"]
 	path = JDCruncheR
 	url = https://github.com/InseeFr/JDCruncheR
+[submodule "TBox"]
+	path = TBox
+	url = https://github.com/TanguyBarthelemy/TBox
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/rjdverse/rjd3bench
