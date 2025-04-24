@@ -39,6 +39,7 @@
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3filters"],
+    "branch": "develop",
     "from": "rjd3filters"
   },
   {
