@@ -2,12 +2,15 @@
 	path = .registry
 	url = https://github.com/tanguybarthelemy/tanguybarthelemy.r-universe.dev
 	branch = HEAD
-[submodule "JDCruncheR"]
-	path = JDCruncheR
-	url = https://github.com/InseeFr/JDCruncheR
+[submodule "IssueTrackeR"]
+	path = IssueTrackeR
+	url = https://github.com/TanguyBarthelemy/IssueTrackeR
 [submodule "TBox"]
 	path = TBox
 	url = https://github.com/TanguyBarthelemy/TBox
+[submodule "releaser"]
+	path = releaser
+	url = https://github.com/TanguyBarthelemy/releaser
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/rjdverse/rjd3bench
@@ -47,6 +50,3 @@
 [submodule "rjd3x13"]
 	path = rjd3x13
 	url = https://github.com/rjdverse/rjd3x13
-[submodule "rjdworkspace"]
-	path = rjdworkspace
-	url = https://github.com/InseeFrLab/rjdworkspace
