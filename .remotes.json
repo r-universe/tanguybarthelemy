@@ -106,6 +106,12 @@
   {
     "package": "rjd3tramoseats",
     "url": "https://github.com/rjdverse/rjd3tramoseats",
+    "via": ["rjd3sts"],
+    "from": "rjd3sts"
+  },
+  {
+    "package": "rjd3tramoseats",
+    "url": "https://github.com/rjdverse/rjd3tramoseats",
     "via": ["rjd3workspace"],
     "from": "rjd3workspace"
   },
