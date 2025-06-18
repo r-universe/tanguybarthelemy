@@ -15,6 +15,7 @@
     "package": "rjd3providers",
     "url": "https://github.com/rjdverse/rjd3providers",
     "via": ["rjd3workspace"],
+    "branch": "develop",
     "from": "rjd3workspace"
   },
   {
@@ -116,12 +117,14 @@
     "package": "rjd3tramoseats",
     "url": "https://github.com/rjdverse/rjd3tramoseats",
     "via": ["rjd3workspace"],
+    "branch": "develop",
     "from": "rjd3workspace"
   },
   {
     "package": "rjd3x13",
     "url": "https://github.com/rjdverse/rjd3x13",
     "via": ["rjd3workspace"],
+    "branch": "develop",
     "from": "rjd3workspace"
   }
 ]
