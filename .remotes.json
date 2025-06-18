@@ -90,6 +90,7 @@
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3workspace", "rjd3providers"],
+    "branch": "develop",
     "from": "rjd3workspace"
   },
   {
