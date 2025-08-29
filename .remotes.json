@@ -58,6 +58,13 @@
   {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3production"],
+    "branch": "develop",
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3providers"],
     "branch": "develop",
     "from": "rjd3providers"
@@ -119,6 +126,13 @@
     "via": ["rjd3workspace"],
     "branch": "develop",
     "from": "rjd3workspace"
+  },
+  {
+    "package": "rjd3x13",
+    "url": "https://github.com/rjdverse/rjd3x13",
+    "via": ["rjd3production"],
+    "branch": "develop",
+    "from": "rjd3production"
   },
   {
     "package": "rjd3x13",
