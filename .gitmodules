@@ -5,9 +5,6 @@
 [submodule "IssueTrackeR"]
 	path = IssueTrackeR
 	url = https://github.com/TanguyBarthelemy/IssueTrackeR
-[submodule "TBox"]
-	path = TBox
-	url = https://github.com/TanguyBarthelemy/TBox
 [submodule "releaser"]
 	path = releaser
 	url = https://github.com/TanguyBarthelemy/releaser
@@ -23,6 +20,9 @@
 [submodule "rjd3nowcasting"]
 	path = rjd3nowcasting
 	url = https://github.com/rjdverse/rjd3nowcasting
+[submodule "rjd3production"]
+	path = rjd3production
+	url = https://github.com/TanguyBarthelemy/rjd3production
 [submodule "rjd3providers"]
 	path = rjd3providers
 	url = https://github.com/rjdverse/rjd3providers
