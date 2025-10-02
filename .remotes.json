@@ -14,6 +14,13 @@
   {
     "package": "rjd3providers",
     "url": "https://github.com/rjdverse/rjd3providers",
+    "via": ["rjd3production", "rjd3workspace"],
+    "branch": "develop",
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3providers",
+    "url": "https://github.com/rjdverse/rjd3providers",
     "via": ["rjd3workspace"],
     "branch": "develop",
     "from": "rjd3workspace"
@@ -117,6 +124,13 @@
   {
     "package": "rjd3tramoseats",
     "url": "https://github.com/rjdverse/rjd3tramoseats",
+    "via": ["rjd3production", "rjd3workspace"],
+    "branch": "develop",
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3tramoseats",
+    "url": "https://github.com/rjdverse/rjd3tramoseats",
     "via": ["rjd3sts"],
     "from": "rjd3sts"
   },
@@ -126,6 +140,13 @@
     "via": ["rjd3workspace"],
     "branch": "develop",
     "from": "rjd3workspace"
+  },
+  {
+    "package": "rjd3workspace",
+    "url": "https://github.com/rjdverse/rjd3workspace",
+    "via": ["rjd3production"],
+    "branch": "develop",
+    "from": "rjd3production"
   },
   {
     "package": "rjd3x13",
