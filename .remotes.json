@@ -137,6 +137,12 @@
   {
     "package": "rjd3tramoseats",
     "url": "https://github.com/rjdverse/rjd3tramoseats",
+    "via": ["rjd3stl", "rjd3highfreq", "rjd3sts"],
+    "from": "rjd3stl"
+  },
+  {
+    "package": "rjd3tramoseats",
+    "url": "https://github.com/rjdverse/rjd3tramoseats",
     "via": ["rjd3sts"],
     "from": "rjd3sts"
   },
