@@ -124,6 +124,12 @@
   {
     "package": "rjd3tramoseats",
     "url": "https://github.com/rjdverse/rjd3tramoseats",
+    "via": ["rjd3highfreq", "rjd3sts"],
+    "from": "rjd3highfreq"
+  },
+  {
+    "package": "rjd3tramoseats",
+    "url": "https://github.com/rjdverse/rjd3tramoseats",
     "via": ["rjd3production", "rjd3workspace"],
     "branch": "develop",
     "from": "rjd3production"
