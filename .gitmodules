@@ -5,6 +5,10 @@
 [submodule "IssueTrackeR"]
 	path = IssueTrackeR
 	url = https://github.com/TanguyBarthelemy/IssueTrackeR
+[submodule "date4ts"]
+	path = date4ts
+	url = https://github.com/TractorTom/date4ts
+	registered = false
 [submodule "releaser"]
 	path = releaser
 	url = https://github.com/TanguyBarthelemy/releaser
