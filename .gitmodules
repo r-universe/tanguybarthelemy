@@ -35,18 +35,9 @@
 [submodule "rjd3sts"]
 	path = rjd3sts
 	url = https://github.com/rjdverse/rjd3sts
-[submodule "rjd3toolkit"]
-	path = rjd3toolkit
-	url = https://github.com/rjdverse/rjd3toolkit
-[submodule "rjd3tramoseats"]
-	path = rjd3tramoseats
-	url = https://github.com/rjdverse/rjd3tramoseats
 [submodule "rjd3workspace"]
 	path = rjd3workspace
 	url = https://github.com/rjdverse/rjd3workspace
 [submodule "rjd3x11plus"]
 	path = rjd3x11plus
 	url = https://github.com/rjdverse/rjd3x11plus
-[submodule "rjd3x13"]
-	path = rjd3x13
-	url = https://github.com/rjdverse/rjd3x13
